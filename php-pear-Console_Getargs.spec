@@ -5,7 +5,7 @@
 
 Summary:	%{_pearname} - a command-line arguments parser
 Name:		php-pear-%{_pearname}
-Version:	1.3.1
+Version:	1.3.4
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
