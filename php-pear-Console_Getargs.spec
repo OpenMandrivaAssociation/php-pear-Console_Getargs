@@ -3,8 +3,8 @@
 %define		upstream_name	%{_class}_%{_subclass}
 
 Name:		php-pear-%{upstream_name}
-Version:	1.3.4
-Release:	%mkrel 5
+Version:	1.3.5
+Release:	%mkrel 1
 Summary:	A command-line arguments parser
 License:	PHP License
 Group:		Development/PHP
