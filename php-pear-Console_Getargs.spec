@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.3.5
-Release:	4
+Release:	5
 Summary:	A command-line arguments parser
 License:	PHP License
 Group:		Development/PHP
